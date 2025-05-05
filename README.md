@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/mT8vDNP/anonymous-avatar.png" width="150" alt="Anonymous Avatar"/>
+  <img src="[https://your-image-host.com/your-uploaded-image.png](https://www.flaticon.com/free-animated-icon/anonymous_17904562?term=anonymous&page=1&position=1&origin=search&related_id=17904562)" width="150" alt="Anonymous Avatar"/>
 </p>
 <h1 align="center">Hey there! 👋 I'm Dasun Tharinda Athapaththu</h1>
 <h3 align="center">💻 Passionate Computer Science Undergraduate | Future Software Engineer 🚀</h3>
@@ -51,9 +51,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dasunt22&show_icons=true&theme=radical" alt="dasunt22 stats" />
-  <br/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunt22&theme=radical" alt="Streak Stats" />
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunt22&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
