@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dasun Tharinda
+## Hi there 👋 I'm Dasun Tharinda Athapaththu.
 
 <!--
 **dasunT22/dasunT22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
