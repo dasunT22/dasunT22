@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://your-image-host.com/your-uploaded-image.png](https://www.flaticon.com/free-animated-icon/anonymous_17904562?term=anonymous&page=1&position=1&origin=search&related_id=17904562)" width="150" alt="Anonymous Avatar"/>
-</p>
+
 <h1 align="center">Hey there! 👋 I'm Dasun Tharinda Athapaththu</h1>
 <h3 align="center">💻 Passionate Computer Science Undergraduate | Future Software Engineer 🚀</h3>
 
