@@ -1,3 +1,4 @@
+<p align="center"><picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px ></picture></p>
 
 <h1 align="center">Hey there! 👋 I'm Dasun Tharinda Athapaththu</h1>
 <h3 align="center">💻 Passionate Computer Science Undergraduate | Future Software Engineer 🚀</h3>
